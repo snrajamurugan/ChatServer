@@ -1,0 +1,17 @@
+<LanguageProcessor>
+	<AbuseWord>
+		<name>fool</name>
+		<type>Personal</type>
+		<replacement>XXXX</replacement>
+	</AbuseWord>
+	<AbuseWord>
+		<name>stupid</name>
+		<type>Personal</type>
+		<replacement>YYYY</replacement>
+	</AbuseWord>
+	<AbuseWord>
+		<name>Religion</name>
+		<type>Religion</type>
+		<replacement>XXXX</replacement>
+	</AbuseWord>
+</LanguageProcessor>
