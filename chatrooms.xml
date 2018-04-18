@@ -1,0 +1,22 @@
+<chatrooms>
+	<chatroom>
+		<name>baseball</name>
+		<type>sports</type>
+		<maxusers>16</maxusers>
+	</chatroom>
+	<chatroom>
+		<name>football</name>
+		<type>sports</type>
+		<maxusers>16</maxusers>
+	</chatroom>
+	<chatroom>
+		<name>Tourist Attraction in SFO</name>
+		<type>Travel</type>
+		<maxusers>10</maxusers>
+	</chatroom>
+	<chatroom>
+		<name>Restaurants</name>
+		<type>Food and Living</type>
+		<maxusers>16</maxusers>
+	</chatroom>
+</chatrooms>
